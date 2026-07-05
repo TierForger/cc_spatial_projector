@@ -1,0 +1,14 @@
+{
+  "block.cc_spatial_projector.spatial_projector": "Spatial-проектор",
+  "item.cc_spatial_projector.spatial_projector": "Spatial-проектор",
+  "item.cc_spatial_projector.spatial_goggles": "Spatial-очки",
+  "itemGroup.cc_spatial_projector.main": "CC: Spatial Projector",
+  "item.cc_spatial_projector.spatial_goggles.unbound": "Не привязаны",
+  "item.cc_spatial_projector.spatial_goggles.bind_hint": "ПКМ по Projector, чтобы привязать.",
+  "item.cc_spatial_projector.spatial_goggles.unlink_hint": "Shift+ПКМ, чтобы отвязать",
+  "message.cc_spatial_projector.goggles_bound": "Очки привязаны к проектору id=%s",
+  "message.cc_spatial_projector.goggles_unbound": "Spatial-очки отвязаны",
+  "item.cc_spatial_projector.spatial_projector.projector_id": "ID проектора: %s",
+  "item.cc_spatial_projector.spatial_projector.new_id_hint": "ID будет создан при установке.",
+  "item.cc_spatial_projector.spatial_goggles.projector_id": "ID проектора: %s"
+}

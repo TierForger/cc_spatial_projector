@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = 'https://maven.neoforged.net/releases' }
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_PROJECT)
+    repositories {
+        mavenLocal()
+        maven { url = 'https://maven.neoforged.net/releases' }
+        mavenCentral()
+        maven {
+            name = 'SquidDev'
+            url = 'https://maven.squiddev.cc'
+            content { includeGroup('cc.tweaked') }
+        }
+        maven {
+            name = 'CreateMod'
+            url = 'https://maven.createmod.net'
+        }
+    }
+}
+
+rootProject.name = 'cc-spatial-projector'

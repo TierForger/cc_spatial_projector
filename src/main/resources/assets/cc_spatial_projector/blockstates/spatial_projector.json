@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "face=floor,facing=north": { "model": "cc_spatial_projector:block/spatial_projector" },
+    "face=floor,facing=east":  { "model": "cc_spatial_projector:block/spatial_projector", "y": 90 },
+    "face=floor,facing=south": { "model": "cc_spatial_projector:block/spatial_projector", "y": 180 },
+    "face=floor,facing=west":  { "model": "cc_spatial_projector:block/spatial_projector", "y": 270 },
+
+    "face=ceiling,facing=north": { "model": "cc_spatial_projector:block/spatial_projector_ceiling" },
+    "face=ceiling,facing=east":  { "model": "cc_spatial_projector:block/spatial_projector_ceiling", "y": 90 },
+    "face=ceiling,facing=south": { "model": "cc_spatial_projector:block/spatial_projector_ceiling", "y": 180 },
+    "face=ceiling,facing=west":  { "model": "cc_spatial_projector:block/spatial_projector_ceiling", "y": 270 }
+  }
+}

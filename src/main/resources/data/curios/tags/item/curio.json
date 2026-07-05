@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [],
+  "remove": [
+    "cc_spatial_projector:spatial_goggles"
+  ]
+}

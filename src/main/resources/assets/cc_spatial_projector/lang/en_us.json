@@ -1,0 +1,14 @@
+{
+  "block.cc_spatial_projector.spatial_projector": "Spatial Projector",
+  "item.cc_spatial_projector.spatial_projector": "Spatial Projector",
+  "item.cc_spatial_projector.spatial_goggles": "Spatial Goggles",
+  "itemGroup.cc_spatial_projector.main": "CC: Spatial Projector",
+  "item.cc_spatial_projector.spatial_goggles.unbound": "Unbound",
+  "item.cc_spatial_projector.spatial_goggles.bind_hint": "Right-click Projector to bind.",
+  "item.cc_spatial_projector.spatial_goggles.unlink_hint": "Shift+Right-click to unbind",
+  "message.cc_spatial_projector.goggles_bound": "Goggles bound to projector id=%s",
+  "message.cc_spatial_projector.goggles_unbound": "Spatial Goggles unbound",
+  "item.cc_spatial_projector.spatial_projector.projector_id": "Projector ID: %s",
+  "item.cc_spatial_projector.spatial_projector.new_id_hint": "ID will be created when placed.",
+  "item.cc_spatial_projector.spatial_goggles.projector_id": "Projector ID: %s"
+}

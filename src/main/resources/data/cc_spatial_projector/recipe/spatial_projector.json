@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "SMS",
+    "ETG",
+    "SPS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:iron_sheet"
+    },
+    "M": {
+      "item": "computercraft:wired_modem"
+    },
+    "E": {
+      "item": "create:electron_tube"
+    },
+    "T": {
+      "item": "minecraft:echo_shard"
+    },
+    "G": {
+      "item": "minecraft:spyglass"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "cc_spatial_projector:spatial_projector"
+  }
+}
